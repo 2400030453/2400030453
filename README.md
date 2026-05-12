@@ -1,16 +1,41 @@
 ## Hi there 👋
+Hey there! 👋 I'm Yaswanth
 
-<!--
-**2400030453/2400030453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer passionate about building scalable, real-world applications using Java, AI, cloud technologies, and modern web development while solving practical problems through clean and efficient software.
 
-Here are some ideas to get you started:
+💻 I build full-stack web applications and backend systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Exploring Cloud Computing (AWS) to build scalable and reliable applications.
+
+🤖 Interested in AI and building intelligent solutions that create impact.
+
+🧩 Strong believer in problem solving, clean code, and continuous learning.
+
+🏆 CodeChef 2★
+
+🚀 Tech Stack
+
+Java  
+HTML  
+CSS  
+JavaScript  
+MySQL  
+AWS  
+Git  
+GitHub
+
+🛠️ Currently Working On
+
+• Full-Stack Web Development Projects  
+• AI-powered applications  
+• Cloud-based scalable solutions  
+• Improving DSA & System Design skills
+
+📌 Pinned
+
+🍱 Food-Waste-Reduction  
+🤖 AI-Chatbot  
+☁️ AWS-Cloud-Deploy  
+🧠 DSA-Notes  
+🛒 E-Commerce-Website  
+📊 ML-Projects
